@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+h3,h4{
+    text-align: center;
+    color: rebeccapurple;
+    font-size: 30px;
+    text-decoration: underline;
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
